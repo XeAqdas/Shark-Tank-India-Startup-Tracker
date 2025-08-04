@@ -49,6 +49,4 @@ All sections are supported by **interactive slicers**, **pivot charts**, and **d
 
 ---
 
-## 📦 File Structure
-
 
